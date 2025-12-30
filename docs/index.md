@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "Портфолио"
+  text: "Григорий Емилиянов"
+  tagline: инженер-программист
   actions:
     - theme: brand
       text: Markdown Examples

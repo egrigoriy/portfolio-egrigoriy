@@ -6,20 +6,24 @@ hero:
   name: "Портфолио"
   text: "Григорий Емилиянов"
   tagline: инженер-программист
+  image:
+    src: /myphoto.png
+    alt: Фотоo
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Java приложения
+      link: /java
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Python приложения
+      link: /python
+    - theme: alt
+      text: Мобильные приложения
+      link: /mobile
+    - theme: alt
+      text: Интернет вещей
+      link: /iot
+    - theme: alt
+      text: САПР / CAD
+      link: /cad
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
 

@@ -8,22 +8,30 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Домашняя', link: '/' },
     ],
-
+    logo: '/public/myphoto.png',
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Разделы',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Java-приложения', link: '/java' },
+          { text: 'Python-приложения', link: '/python' },
+          { text: 'Мобильные приложения', link: '/mobile' },
+		  { text: 'Интернет вещей', link: '/iot' },
+          { text: 'САПР', link: '/cad' }
         ]
       }
     ],
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/egrigoriy/' }
-    ]
+    ],
+	locales: {
+		root: {
+		  label: 'Русский',
+		  lang: 'ru'
+		},
+	},
   }
 })

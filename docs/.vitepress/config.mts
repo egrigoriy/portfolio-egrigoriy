@@ -8,7 +8,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Домашняя', link: '/' },
+      { text: 'Начало', link: '/' },
     ],
     logo: '/public/myphoto.png',
     sidebar: [

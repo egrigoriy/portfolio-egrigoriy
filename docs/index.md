@@ -8,7 +8,7 @@ hero:
   tagline: инженер-программист
   image:
     src: /myphoto.png
-    alt: Фотоo
+    alt: Фото
   actions:
     - theme: brand
       text: Java приложения

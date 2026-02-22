@@ -5,15 +5,78 @@
 
 ## Gitlet
 
-| Tables        |      Are      |  Cool |
-|---------------|:-------------:|------:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      |   centered    |   $12 |
-| zebra stripes |   are neat    |    $1 |
+Gitlet - это проект из курса CS61B "Структуры данных" в Калифорнийском Университете в Беркли.  
+
+Это консольное приложение представляющее систему контроля версий файлов и имитирующие основные функции популярной системы Git.  
+
+### Требуемый функционал:  
+
+#### <u>Для работы с локальным репозитарием:</u>  
+
+- init
+- add
+- commit
+- rm
+- log
+- find
+- status
+- checkout
+- branch
+- rm-branch
+- reset
+- merge
+
+#### <u>Для работы с удаленным репозитарием:</u>  
+
+- add-remote
+- rm-remote
+- push
+- fetch
+- pull  
+
+### Тестирование работы  
+
+Успешность тестирования моей работы в системе [Gradescope](https://www.gradescope.com): **1696 из 1600** (96 очков дополнительный кредит за функционал по работе с удаленным репозитарием)
+
+![cs61bGitlet.png](/public/cs61bGitlet.png)
+
+Ссылка на задание: [Gitlet](https://sp21.datastructur.es/materials/proj/proj2/proj2)
+
+Ссылка на репозитарий: [Github](https://github.com/egrigoriy/skeleton-sp21/tree/proj2/proj2)
+
+### Демо  
 
 
 
-## От NAND вентиля до ТЕТРИСА
+
+## CS61BYoW
+
+CS61BYoW - это проект из курса CS61B "Структуры данных" в Калифорнийском Университете в Беркли.
+
+Проект создания игры из двух частей:  
+
+1. игровой движок с генерацией псевдослучайного мира в виде лабиринта
+
+2. интерактивный консольный интерфейс - меню создания новой игры/загрузки сохранненной и режим игры с управленим героя из клавишей
+
+
+### Тестирование работы  
+
+Успешность тестирования моей работы в системе [Gradescope](https://www.gradescope.com): **100 из 100** для каждой из частей
+
+![cs61bGame1.png](/public/cs61bGame1.png)
+![cs61bGame2.png](/public/cs61bGame2.png)
+
+Ссылка на задание: [CS61BYoW](https://sp21.datastructur.es/materials/proj/proj3/proj3)
+
+Ссылка на репозитарий: [Github](https://github.com/egrigoriy/skeleton-sp21/tree/proj3)
+
+### Демо  
+
+
+
+## От NAND вентиля до ТЕТРИСА  
+
 
 
 ![Foti](/public/myphoto.png)

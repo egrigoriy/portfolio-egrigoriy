@@ -6,7 +6,7 @@
 
 Это мобильное приложение позволяет с помощью телефона считывать штих и QR коды и отправлять данные на сервер.
 
-![qrscanner_ui.png](/public/qrscanner_ui.png)  
+![qrscanner_ui.png](/public/qrscanner_ui.png){width=300px}  
 
 
 Функционал:  

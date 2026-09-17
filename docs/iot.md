@@ -57,10 +57,10 @@
 
 ![meteo.png](/public/meteo.png){width=300px}
 
-::: warning
-Идет добавление информации. 
-:::
+Результат измениний на веб-сервере:
 
+
+![meteo.png](/public/meteo_data.png){width=300px}
 
 ## Карета
 

@@ -55,12 +55,12 @@
 2. датчик BMP280 - барометр, термометр и альтиметр - интерфейс I2C
 3. TFT ЖК-дисплей 1.8 дюйма ST7735, 128х160- интерфейс SPI  
 
-![meteo.png](/public/meteo.png){width=600px}
+![meteo.png](/public/meteo.png){width=300px}
 
 Результат измениний на веб-сервере:
 
 
-![meteo.png](/public/meteo_data.png){width=300px}
+![meteo.png](/public/meteo_data.png){width=600px}
 
 ## Карета
 

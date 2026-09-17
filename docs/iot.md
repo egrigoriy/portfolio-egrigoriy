@@ -57,7 +57,7 @@
 
 ![meteo.png](/public/meteo.png){width=300px}
 
-Результат измениний на веб-сервере:
+Результат измерений на веб-сервере:
 
 
 ![meteo.png](/public/meteo_data.png){width=600px}
